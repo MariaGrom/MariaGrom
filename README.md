@@ -3,16 +3,13 @@
 
 
 <!--
-**MariaGrom/MariaGrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**MariaGrom/MariaGrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 Я - начинающий Frontend-developer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- :octocat: Я - начинающий Frontend-developer
+- 🎓 Учусь на факультете Web-разработки в Я.Практикум
+- 🌀 Стремлюсь к написанию качественного и понятного кода 
+- 🍀 Открыта для сотрудничества в интересных проектах
+- 📫 Со мной можно связаться по эл.почте: gromyckomary@yandex.ru 
