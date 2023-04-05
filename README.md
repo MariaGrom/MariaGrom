@@ -13,6 +13,7 @@ Here are some ideas to get you started: -->
 - 🌀 Стремлюсь к написанию качественного и понятного кода 
 - 🍀 Открыта для сотрудничества в интересных проектах
 - 📫 Со мной можно связаться по эл.почте gromyckomary@yandex.ru или telegram @MariaGromyko
+- ![](https://www.codewars.com/users/MariaGrom/badges/micro)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariagrom&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariagrom&theme=vue)
